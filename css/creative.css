@@ -148,6 +148,8 @@ aside {
     color: #F05F40;
   }
 }
+
+
 header {
   position: relative;
   width: 100%;
@@ -183,6 +185,28 @@ header .header-content .header-content-inner p {
   font-size: 16px;
   margin-bottom: 50px;
 }
+
+
+.pitt_header{
+  margin-top: 0px;
+  min-height: 250px;
+  width: cover;
+  background-image: url('../img/pitt_skyline.jpg');
+  text-align: center;
+  color: white;
+}
+
+.cmu_header{
+  margin-top: 0px;
+  min-height: 250px;
+  width: cover;
+  background-image: url('../img/cmu_campus.jpg');
+  text-align: center;
+  color: white;
+    
+}
+
+
 @media (min-width: 768px) {
   header {
     min-height: 100%;
