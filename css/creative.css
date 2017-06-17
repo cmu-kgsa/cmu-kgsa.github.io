@@ -432,7 +432,7 @@ body {
     
 }
 
-.nav .navbar-nav .navbar-right:hover .dropdown-menu{
+.navbar .navbar-default .navbar-fixed-top:hover .dropdown-menu{
     
     opacity:1;
     top: 20px;
