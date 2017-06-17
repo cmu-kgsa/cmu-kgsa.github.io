@@ -66,7 +66,7 @@
     $('.dropdown').on('show.bs.dropdown', function(e){
       var $dropdown = $(this).find('.dropdown-menu');
       var orig_margin_top = parseInt($dropdown.css('margin-top'));
-      $dropdown.css({'margin-top': (orig_margin_top + 10) + 'px', opacity: 0}).animate({'margin-top': orig_margin_top + 'px', opacity: 1}, 50, function(){
+      $dropdown.css({'margin-top': (orig_margin_top + 10) + 'px', opacity: 0}).animate({'margin-top': orig_margin_top + 'px', opacity: 1}, 10, function(){
          $(this).css({'margin-top':''});
       });
    });
@@ -74,7 +74,7 @@
    $('.dropdown').on('hide.bs.dropdown', function(e){
       var $dropdown = $(this).find('.dropdown-menu');
       var orig_margin_top = parseInt($dropdown.css('margin-top'));
-      $dropdown.css({'margin-top': orig_margin_top + 'px', opacity: 1, display: 'block'}).animate({'margin-top': (orig_margin_top + 10) + 'px', opacity: 0}, 50, function(){
+      $dropdown.css({'margin-top': orig_margin_top + 'px', opacity: 1, display: 'block'}).animate({'margin-top': (orig_margin_top + 10) + 'px', opacity: 0}, 10, function(){
          $(this).css({'margin-top':'', display:''});
       });
    });
