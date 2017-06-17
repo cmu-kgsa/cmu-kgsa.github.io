@@ -414,3 +414,32 @@ img::-moz-selection {
 body {
   webkit-tap-highlight-color: #222222;
 }
+
+
+.dropdown-menu menu-1{
+    
+    position:absolute;
+    background: #666666;
+    z-index: 1;
+    top: 10px;
+    visibility: hidden;
+    opacity: 0;
+    -webkit-transition: all .25s;
+    -moz-transition: all .25s;
+    -ms-transition: all .25s;
+    -o-transition: all .25s;
+    transition: all .25s;
+    
+}
+
+.dropdown-toggle:hover .dropdown-menu menu-1{
+    
+    opacity:1;
+    top: 20px;
+    visibility: visible;    
+    
+}
+
+
+
+
