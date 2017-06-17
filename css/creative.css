@@ -416,9 +416,9 @@ body {
 }
 
 
-.dropdown-menu menu-1{
+.dropdown-menu{
     
-    position:absolute;
+    position: absolute;
     background: #666666;
     z-index: 1;
     top: 10px;
@@ -432,7 +432,7 @@ body {
     
 }
 
-.dropdown-toggle:hover .dropdown-menu menu-1{
+.dropdown-toggle:hover .dropdown-menu{
     
     opacity:1;
     top: 20px;
