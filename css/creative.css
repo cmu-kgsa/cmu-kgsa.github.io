@@ -416,6 +416,14 @@ body {
 }
 
 
+.parentdropdown{
+    display: inline;
+    background: #999;
+    padding 0 15px;
+    position: relative;
+    
+}
+
 .dropdown-menu{
     
     position: relative;
@@ -433,7 +441,7 @@ body {
 }
 
 
-.dropdown-toggle:hover .dropdown-menu{
+.parentdropdown:hover .dropdown-menu{
     
     opacity:1;
     top: 20px;
