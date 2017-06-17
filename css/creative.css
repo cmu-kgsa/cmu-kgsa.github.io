@@ -105,6 +105,7 @@ aside {
 .navbar-default .nav > li.active > a:focus:hover {
   background-color: transparent;
 }
+
 @media (min-width: 768px) {
   .navbar-default {
     background-color: transparent;
@@ -124,6 +125,7 @@ aside {
   .navbar-default .nav > li > a:hover,
   .navbar-default .nav > li > a:focus:hover {
     color: white;
+    cursor: pointer;
   }
   .navbar-default.affix {
     background-color: white;
@@ -415,17 +417,33 @@ body {
   webkit-tap-highlight-color: #222222;
 }
 
-
-.parentdropdown{
-    display: inline;
-    background: #999;
-    padding 0 15px;
-    position: relative;
+li.dropdown .dropdown-menu{
+    
+    -webkit-transition: all 0.3s;
+    -moz-transition: all 0.3s;
+    -ms-transition: all 0.3s;
+    -o-transition: all 0.3s;
+    transition: all 0.3s;
+    
+    transform: translateY(-10%);
+    max-height: 100px;
+    display: block;
+    visibility:  hidden;
+    opacity: 0;
     
 }
 
 
+.navbar-default .navbar-nav > li.dropdown:hover > a, 
+.navbar-default .navbar-nav > li.dropdown:hover > a:hover,
+.navbar-default .navbar-nav > li.dropdown:hover > a:focus {
+    background-color: rgb(231, 231, 231);
+    color: rgb(85, 85, 85);
+}
 
-
-
-
+li.dropdown:hover > .dropdown-menu {
+    display: block;
+    visibility: visible;
+    opacity: 1;
+    transform: translateY(0%);
+}
