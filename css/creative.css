@@ -432,7 +432,7 @@ body {
     
 }
 
-.dropdown-toggle:hover .dropdown-menu{
+.nav .navbar-nav .navbar-right:hover .dropdown-menu{
     
     opacity:1;
     top: 20px;
