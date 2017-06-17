@@ -416,9 +416,9 @@ body {
 }
 
 
-.dropdown-menu{
+.dropdown-toggle{
     
-    position: absolute;
+    position: relative;
     background: #666666;
     z-index: 1;
     top: 10px;
@@ -432,7 +432,8 @@ body {
     
 }
 
-.navbar .navbar-default .navbar-fixed-top:hover .dropdown-menu{
+
+.nav .navbar-nav .navbar-right:hover .dropdown-toggle{
     
     opacity:1;
     top: 20px;
