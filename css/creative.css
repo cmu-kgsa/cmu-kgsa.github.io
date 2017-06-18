@@ -189,6 +189,18 @@ aside {
   margin-bottom: 50px;
 }
 
+.about_header{
+  margin-top: 0px;
+  min-height: 250px;
+  background-size: cover;
+  background-position: center center;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/header.jpg');
+  text-align: center;
+  color: white  
+}
+
+
+
 
 .pitt_header{
   margin-top: 0px;
