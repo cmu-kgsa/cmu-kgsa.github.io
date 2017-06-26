@@ -28,6 +28,26 @@
         }
     })
 
+    
+    $(window).scroll(function () {
+    if ($(window).scrollTop() >= 50) {
+    $('.navbar').css('background','transparent');
+    } else {
+    $('.navbar').css('background','transparent');
+    }
+    });
+    
+    
+//    $(window).scroll(function() {
+//    if($(this).scrollTop() > 50)  /*height in pixels when the navbar becomes non opaque*/ 
+//    {
+//        $('.opaque-navbar').addClass('opaque');
+//    } else {
+//        $('.opaque-navbar').removeClass('opaque');
+//    }
+//    });
+    
+    
     // Initialize and Configure Scroll Reveal Animation
     window.sr = ScrollReveal();
     sr.reveal('.sr-icons', {
