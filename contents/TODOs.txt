@@ -1,0 +1,19 @@
+### TODO Lists ###
+
+- Contents
+    + Refer to Google Drive KGSA
+    + Life wiki
+        = Remove current Dropdown design, make a page with two options
+        = Life contents
+    + Social
+    + Career
+- Minor TODOs
+    + Add google calendar
+    + Links to other related groups
+        = CMU KGSA facebook group
+        = Bridge CMU KGSA
+    + Highlight current page
+    + @media align body texts
+
+- References
+    + FontAwesome web icons: https://www.w3schools.com/icons/fontawesome_icons_webapp.asp
