@@ -1,0 +1,33 @@
+Primary
+
+CMU Red
+PMS 187
+C=0, M=100, Y=79, K=20
+
+Black
+K=100
+
+White
+
+Gray Light
+35% Black
+C=0, M=0, Y=0, K=35
+
+Gray Dark
+70% Black
+C=0, M=0, Y=0, K=70
+
+Secondary
+Green
+PMS 348
+C=92, M=2, Y=100, K=12
+
+Yellow
+PMS 130
+C=0, M=32, Y=100, K=0
+
+Blue
+PMS 288
+C=100, M=80, Y=6, K=32
+
+Link: https://www.cmu.edu/marcom/brand-standards/logos-colors-type.html
