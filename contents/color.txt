@@ -30,4 +30,38 @@ Blue
 PMS 288
 C=100, M=80, Y=6, K=32
 
+*** Web & RGB Colors
+
+Primary
+CMU Red *
+#b00
+187, 0, 0
+Gray
+#e0e0e0
+244, 244, 244
+Dark Gray
+#666
+102, 102, 102
+
+Secondary
+Gold
+#a60
+170, 102, 0
+Teal
+#067
+0, 102, 119
+Blue
+#247
+34, 68, 119
+Green
+#085
+0, 136, 85
+Dark Green
+#243
+34, 68, 51
+
 Link: https://www.cmu.edu/marcom/brand-standards/logos-colors-type.html
+
+Sub Navbar? Menu? (e.g., Life page, w/o text): CMU Red
+Containers: White & Gray
+Footer: Dark gray

@@ -13,7 +13,7 @@ body {
   width: 100%;
 }
 body {
-  font-family: 'Merriweather', 'Helvetica Neue', Arial, sans-serif;
+  font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
   -webkit-tap-highlight-color:#222
 }
 hr {
@@ -564,6 +564,41 @@ ul.social-buttons {
     background-color: #222222; }
     ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons li a:hover {
       background-color: #fed136; }
+
+#cmu-content{
+    width:100%;
+    max-height: 3vw;
+    overflow: hidden;
+    -webkit-transition: max-height 2s;
+    -moz-transition: max-height 2s;
+    transition: max-height 2s;
+}
+
+
+#cmu-content.open{
+    max-height: 500vw;
+    
+    -webkit-transition: max-height 2s;
+    -moz-transition: max-height 2s;
+    transition: max-height 2s;
+}
+
+#pitt-content{
+    width:100%;
+    max-height: 3vw;
+    overflow: hidden;
+    -webkit-transition: max-height 2s;
+    -moz-transition: max-height 2s;
+    transition: max-height 2s;
+}
+
+#pitt-content.open{
+    max-height: 500vw;
+    
+    -webkit-transition: max-height 2s;
+    -moz-transition: max-height 2s;
+    transition: max-height 2s;
+}
 
 /*
 li.dropdown .dropdown-menu {

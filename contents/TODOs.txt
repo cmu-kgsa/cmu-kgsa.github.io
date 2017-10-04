@@ -3,6 +3,13 @@
 GK: Gihyuk Ko
 WD: Woogdoe
 
+- Agenda
+    + 20min weekly update meeting, Wednesdays 12 - 1pm
+    + Due: Dec 22, Friday
+    + Subtasks
+        = WD: Subnavbar till. 10/11, Wed
+        = GK: Contents till. 10/7, Sat
+
 - Contents
     + Refer to Google Drive KGSA
     + About page
@@ -14,7 +21,7 @@ WD: Woogdoe
     + Social
         = Not now
     + Career (?)
-        = Recent career-related events + history
+        = Recent career-related events + history (행사 사진 + 회사 로고 overlay?)
         = Recent career-related events in a container
         = History: grid layout
         = Responsive button grid design(?), when clicked, information appears
@@ -33,6 +40,3 @@ WD: Woogdoe
 
 - References
     + FontAwesome web icons: https://www.w3schools.com/icons/fontawesome_icons_webapp.asp
-
-- Agenda
-    + 20min weekly update meeting, Thursdays 2 - 2:30pm
