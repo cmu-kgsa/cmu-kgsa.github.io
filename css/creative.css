@@ -532,9 +532,11 @@ body {
 
 footer {
   padding: 25px 0;
-  text-align: center; }
+  text-align: center;
+  background-color: #666; }
   footer span.copyright {
     font-size: 90%;
+    color: white;
     line-height: 40px;
     text-transform: none;
     font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
@@ -546,6 +548,9 @@ footer {
     text-transform: none;
     font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     text-transform: uppercase; }
+    footer ul.quicklinks a {
+      color: #fed136;
+    }
 
 ul.social-buttons {
   margin-bottom: 0; }
