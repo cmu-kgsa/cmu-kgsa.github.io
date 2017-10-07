@@ -114,6 +114,12 @@
 
 Last updated [today]
 
+###### Other Links
+* [피츠버그 한인회](http://pittkor.org/xe/)
+* [(Outdated)KSAP Guide Wiki](http://ksap.wikidot.com/)
+* [피츠버그 즐기기](http://koreaninpittsburgh.blogspot.com/)
+* 
+
 ### References
 * [Original Life Wiki 01](https://docs.google.com/document/d/1-f6LXudh0-cbSQagtOdUu7Y-vRJV0Yy-JvRWSRaoYUg/edit?usp=sharing)
 * [Original Life Wiki 02](https://docs.google.com/document/d/1WGevrcWeZ_PnSekDaYWJ-wf92NOXTdwVfM0vj6GNhMM/edit?usp=sharing)

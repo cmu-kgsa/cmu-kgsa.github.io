@@ -33,10 +33,15 @@
 
 #### Minor TODOs
 
+* Font Size
+    * Dynamic font size for small screens
+* Button Toggle
+    * When a button's clicked, the color changes and does not recover
 * Colors
     * Tartan Check (tone down) & Burgandy
     * Black & white
 * Add Google Calendar?
+    * Calendar
 * Links to other related pages
     * CMU KGSA facebook group
     * Bridge CMU KGSA
