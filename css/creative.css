@@ -17,24 +17,27 @@ body {
   -webkit-tap-highlight-color:#222
 }
 hr {
-  border-color: #F05F40;
+  border-color: #FFAD00;
   border-width: 3px;
   max-width: 50px;
 }
 hr.light {
-  border-color: white;
+  border-color: #FFAD00;
 }
 hr.dark {
-  border-color: rgba(246, 226, 97, 0.94);
+  border-color: #FFAD00;
+}
+hr.primary {
+  border-color: #666;
 }
 a {
   -webkit-transition: all 0.35s;
   -moz-transition: all 0.35s;
   transition: all 0.35s;
-  color: #F05F40;
+  color: #FFAD00;
 }
 a:hover, a:focus {
-  color: #eb3812;
+  color: #FFAD00;
 }
 h1,
 h2,
@@ -51,7 +54,7 @@ p {
 }
 
 .bg-primary {
-  background-color: #F05F40 !important;
+  background-color: #FFAD00 !important;
 }
 .bg-primary a{
   color: rgba(246, 226, 97, 0.94);
@@ -64,8 +67,12 @@ p {
   color: rgba(255,255,255,0.7)
 }
 
+.bg-gray {
+  background-color: #e0e0e0 !important;
+}
+
 .bg-dark {
-  background-color: #222222 !important;
+  background-color: #4D4D4D !important;
   color: white;
 }
 .text-faded {
@@ -98,7 +105,7 @@ aside {
 }
 
 .navbar-default .navbar-header .navbar-brand {
-  color: #F05F40;
+  color: #FFAD00;
   font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
   font-weight: 700;
   text-transform: uppercase;
@@ -125,16 +132,17 @@ aside {
 .navbar-default .nav > li > a:hover,
 .navbar-default .nav > li > a:focus:hover {
   /*color: rgba(255, 255, 255, 1);*/
-  color:#F05F40
+  color:#FFAD00
 }
 .navbar-default .nav > li.active > a,
 .navbar-default .nav > li.active > a:focus {
   /*color: rgba(255, 255, 255, 1);*/
-  color:#F05F40 !important;
+  color:#FFAD00 !important;
   background-color: transparent;
 }
 .navbar-default .nav > li.active > a:hover,
 .navbar-default .nav > li.active > a:focus:hover {
+  color:#b00 !important;
   background-color: transparent;
 }
 
@@ -168,13 +176,13 @@ aside {
   }
   .navbar-default.affix .navbar-header .navbar-brand {
     /*color: rgba(255, 255, 255, 0.7);*/
-    color:#F05F40;
+    color:#FFAD00;
     font-size: 14px;
   }
   .navbar-default.affix .navbar-header .navbar-brand:hover,
   .navbar-default.affix .navbar-header .navbar-brand:focus {
     /*color: rgba(255, 255, 255, 0.7);*/
-    color:#eb3812
+    color:#b00
   }
   .navbar-default.affix .nav > li > a,
   .navbar-default.affix .nav > li > a:focus {
@@ -184,7 +192,7 @@ aside {
   .navbar-default.affix .nav > li > a:hover,
   .navbar-default.affix .nav > li > a:focus:hover {
     /*color: rgba(255, 255, 255, 1);*/
-    color:#F05F40
+    color:#FFAD00
   }
 }
 
@@ -208,7 +216,7 @@ header#main-header {
   background-size: cover;
   -o-background-size: cover;
   background-position: center;
-  background-image: url('../img/header.jpg');
+  background-image: url('../img/header/header.jpg');
   text-align: center;
   color: white;
 }
@@ -243,7 +251,7 @@ header#about-header {
   min-height: 200px;
   background-size: cover;
   background-position: center;
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/header.jpg');
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/header/header.jpg');
   text-align: center;
   color: white;
   -webkit-background-size: cover;
@@ -257,7 +265,7 @@ header#life-header{
   min-height: 200px;
   background-size: cover;
   background-position: center center;
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/pitt_skyline.jpg');
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/header/pitt_skyline.jpg');
   text-align: center;
   color: white;
 }
@@ -268,7 +276,7 @@ header#pitt-header{
   min-height: 200px;
   background-size: cover;
   background-position: center center;
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/pitt_skyline.jpg');
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/header/pitt_skyline.jpg');
   text-align: center;
   color: white;
 }
@@ -279,7 +287,7 @@ header#cmu-header{
   min-height: 200px;
   background-size: cover;
   background-position: center center;
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/cmu_campus.jpg');
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/header/cmu_campus.jpg');
   text-align: center;
   color: white;
 }
@@ -290,7 +298,7 @@ header#career-header{
   min-height: 200px;
   background-size: cover;
   background-position: center center;
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/career.png');
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/header/career.png');
   text-align: center;
   color: white;
 }
@@ -396,7 +404,7 @@ header#career-header{
 }
 .text-primary {
   /*color:  rgba(255, 255, 255, 0.7);*/
-  color:#F05F40  
+  color:#FFAD00;
 }
 .no-gutter > [class*='col-'] {
   padding-right: 0;
@@ -452,8 +460,8 @@ fieldset[disabled] .btn-default.active {
 }
 .btn-primary {
   color: white;
-  background-color: #F05F40;
-  border-color: #F05F40;
+  background-color: #FFAD00;
+  border-color: #FFAD00;
   -webkit-transition: all 0.35s;
   -moz-transition: all 0.35s;
   transition: all 0.35s;
@@ -465,8 +473,8 @@ fieldset[disabled] .btn-default.active {
 .btn-primary.active,
 .open > .dropdown-toggle.btn-primary {
   color: white;
-  background-color: #ee4b28;
-  border-color: #ed431f;
+  background-color: #a60;
+  border-color: #a60;
 }
 .btn-primary:active,
 .btn-primary.active,
@@ -491,11 +499,11 @@ fieldset[disabled] .btn-primary:active,
 .btn-primary.disabled.active,
 .btn-primary[disabled].active,
 fieldset[disabled] .btn-primary.active {
-  background-color: #F05F40;
-  border-color: #F05F40;
+  background-color: #FFAD00;
+  border-color: #FFAD00;
 }
 .btn-primary .badge {
-  color: #F05F40;
+  color: #FFAD00;
   background-color: white;
 }
 .btn {
@@ -549,7 +557,7 @@ footer {
     font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     text-transform: uppercase; }
     footer ul.quicklinks a {
-      color: #fed136;
+      color: #FFAD00;
     }
 
 ul.social-buttons {
@@ -568,7 +576,7 @@ ul.social-buttons {
     outline: none;
     background-color: #222222; }
     ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons li a:hover {
-      background-color: #fed136; }
+      background-color: #FFAD00; }
 
 #cmu-content{
     width:100%;
@@ -605,6 +613,11 @@ ul.social-buttons {
     transition: max-height 2s;
 }
 
+img {
+  max-width: 100%;
+  height: auto;
+  width: auto\9;
+}
 /*
 li.dropdown .dropdown-menu {
     
