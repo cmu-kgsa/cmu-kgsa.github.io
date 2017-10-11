@@ -8,16 +8,16 @@
 * Due: **Dec 22, Friday**
 * Deadline for subtasks
     * (**WD**) Subnavbar till. 10/11, Wed
-    * (**GK**) Contents till. 10/7, Sat
+    * (**GK**) Life Wiki till. 10/14, Sat
 
 #### Contents
 
 * Refer to Google Drive KGSA
 * About page
-    * (**GK**) Remove unnecessary info & layout
+    * (**WD**) 운영진 diagram re-design
+    * (**GK**) History & Contact us button
 * Life wiki
-    * (**GK**) Life contents & listing format & what to include
-    * (**GK**) Wiki format?
+    * (**GK**) 정착 정보 --> 문장글로
     * (**WD**) Layout (responsive, scroll control of the second navbar)
     * [Pittsburgh Life Map][1]
 * Career (_Is this the right title?_)
@@ -25,7 +25,6 @@
     * Recent career-related events in a container
     * History: grid layout
     * Responsive button grid design(?), when clicked, information appears
-    * (**GK**) Support-us manual & Application form
 * KDisTech?
     * ~~Not now~~
 * Social
@@ -41,7 +40,7 @@
     * Tartan Check (tone down) & Burgandy
     * Black & white
 * Add Google Calendar?
-    * Calendar
+    * Calendar for events only (not like weekly thing)
 * Links to other related pages
     * CMU KGSA facebook group
     * Bridge CMU KGSA
