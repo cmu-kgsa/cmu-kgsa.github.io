@@ -31,12 +31,20 @@
     
     $(window).scroll(function () {
     if ($(window).scrollTop() >= 50) {
-    $('.navbar').css('background','transparent');
+        //$('.navbar').css('background','transparent'); // GK: commented out for design inconsistency
+        $('#scroll-top').fadeIn(300);   // hide scrolltop button
     } else {
-    $('.navbar').css('background','transparent');
+        //$('.navbar').css('background','transparent'); // GK: commented out for design inconsistency
+        $('#scroll-top').fadeOut(300);  // show scrolltop button
     }
     });
     
+    // scroll-top button
+    $('#scroll-top').click(function() {
+        $('body,html').animate({
+            scrollTop : 0
+        }, 500);
+    });
     
 //    $(window).scroll(function() {
 //    if($(this).scrollTop() > 50)  /*height in pixels when the navbar becomes non opaque*/ 
