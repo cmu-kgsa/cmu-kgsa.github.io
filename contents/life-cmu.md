@@ -2,12 +2,20 @@
 
 #### General
 
+##### 은행
+###### 사용은행
+학교나 피츠버그 근처에는 [Bank of America](https://www.bankofamerica.com/)나 [Citi Bank](https://online.citi.com/)가 없고, 거의 모든 유학생들이 [PNC Bank](https://www.pnc.com)를 사용합니다. PNC Bank의 본사가 피츠버그에 있고 CMU 안에도 지점 및 ATM이 있어서 피츠버그 내에서 사용하시기엔 충분합니다. 단, PNC Bank의 경우 미 동부에 집중하여 위치해 있기 때문에 혹시 미 중부나 서부로 여행 또는 출장을 가게 될 때, ATM이나 은행업무를 보기 힘든 상황이 올 수도 있습니다.
+###### 계좌 개설
+계좌를 개설하려면 Photo ID (Passport, U.S. driver's license), 우편물 및 카드를 받을 수 있는 주소가 필요합니다.
+###### Debit and Credit Card
+Debit card는 한국의 체크카드와 같은 카드로, 사용하는 즉시 은행계좌에서 돈이 빠져나갑니다. 일반적으로 계좌를 개설하면 바로 발급받을 수 있는 카드로서, ATM기에서 돈을 인출/송금해야 할 때나 
+###### Check/Cheque
+Check는 [Check 기입 방법]()을 참고하시기 바랍니다.
+###### Online Banking
+은행마다 다르지만, 송금에는 보통 1-2 business day가 걸립니다. 혹시 공과금이나 service fee 등을 online transfer를 통해 
+
 ###### 은행
 * 사용은행
-    * 학교 근처에는 [Bank of America](https://www.bankofamerica.com/)나 [Citi Bank](https://online.citi.com/)가 없음
-    * [PNC Bank](https://www.pnc.com)가 가장 많다. 학교 안에도 지점이 있고 ATM도 많음.
-    * Social Security Number 필요
-    * 우편물을 받을 주소가 필요 (집주소)
     * 초기 계좌 생성 시 넣어둘 돈이 필요
     * App이 있어 이용하기 편함
 * Debit Card (체크카드)
@@ -118,7 +126,6 @@ Last updated [today]
 * [피츠버그 한인회](http://pittkor.org/xe/)
 * [(Outdated)KSAP Guide Wiki](http://ksap.wikidot.com/)
 * [피츠버그 즐기기](http://koreaninpittsburgh.blogspot.com/)
-* 
 
 ### References
 * [Original Life Wiki 01](https://docs.google.com/document/d/1-f6LXudh0-cbSQagtOdUu7Y-vRJV0Yy-JvRWSRaoYUg/edit?usp=sharing)

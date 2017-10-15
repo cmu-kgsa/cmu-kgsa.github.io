@@ -41,9 +41,6 @@
     * Black & white
 * Add Google Calendar?
     * Calendar for events only (not like weekly thing)
-* Links to other related pages
-    * CMU KGSA facebook group
-    * Bridge CMU KGSA
 * Highlight current page
 
 #### References
