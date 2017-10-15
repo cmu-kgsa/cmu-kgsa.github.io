@@ -608,7 +608,7 @@ ul.social-buttons {
     top: 0;
     bottom: 0;
     left: 40px;
-    width: 2px;
+    width: 3px;
     margin-left: -1.5px;
     content: '';
     background-color: #f1f1f1; }
@@ -648,7 +648,7 @@ ul.social-buttons {
       color: white;
       border: 7px solid #f1f1f1;
       border-radius: 100%;
-      background-color: #fed136; }
+      background-color: #FFAD00; }
       .timeline > li .timeline-image h4 {
         font-size: 10px;
         line-height: 14px;
@@ -737,8 +737,8 @@ ul.social-buttons {
   margin-bottom: 50px;
   text-align: center; }
   .contact-button img {
-    width: 225px;
-    height: 225px;
+    width: 175px;
+    height: 175px;
     border: 7px solid white; }
   .contact-button h4 {
     margin-top: 25px;
