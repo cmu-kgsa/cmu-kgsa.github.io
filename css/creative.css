@@ -790,7 +790,7 @@ ul.social-buttons {
 
 #cmu-content{
     width:100%;
-    max-height: 3vw;
+    max-height: 1vw;
     overflow: hidden;
     -webkit-transition: max-height 2s;
     -moz-transition: max-height 2s;
@@ -808,7 +808,7 @@ ul.social-buttons {
 
 #pitt-content{
     width:100%;
-    max-height: 3vw;
+    max-height: 1vw;
     overflow: hidden;
     -webkit-transition: max-height 2s;
     -moz-transition: max-height 2s;
