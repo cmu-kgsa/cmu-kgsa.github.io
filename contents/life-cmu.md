@@ -4,13 +4,13 @@
 
 ##### 은행
 ###### 사용은행
-학교나 피츠버그 근처에는 [Bank of America](https://www.bankofamerica.com/)나 [Citi Bank](https://online.citi.com/)가 없고, 거의 모든 유학생들이 [PNC Bank](https://www.pnc.com)를 사용합니다. PNC Bank의 본사가 피츠버그에 있고 CMU 안에도 지점 및 ATM이 있어서 피츠버그 내에서 사용하시기엔 충분합니다. 단, PNC Bank의 경우 미 동부에 집중하여 위치해 있기 때문에 혹시 미 중부나 서부로 여행 또는 출장을 가게 될 때, ATM이나 은행업무를 보기 힘든 상황이 올 수도 있습니다.
+피츠버그에는 [Bank of America](https://www.bankofamerica.com/)나 [Citi Bank](https://online.citi.com/)가 없거나 학교와 멀리 떨어진 곳에 있어서 거의 모든 유학생들이 [PNC Bank](https://www.pnc.com)를 사용합니다. PNC Bank의 본사가 피츠버그에 있고 CMU 안에도 지점 및 ATM이 있어서 피츠버그 내 및 미 동부에서 사용하시기엔 충분합니다. 단, PNC Bank의 경우 미 동부에 집중하여 위치해 있기 때문에 중부나 서부로 여행 또는 출장을 가게 될 때 ATM이나 은행업무를 보기 힘든 상황이 올 수 있으니 여행시 어느 정도의 현금을 들고 다니는 것이 좋습니다.
 ###### 계좌 개설
-계좌를 개설하려면 Photo ID (Passport, U.S. driver's license), 우편물 및 카드를 받을 수 있는 주소가 필요합니다.
+계좌를 개설하려면 Photo ID (Passport, U.S. driver's license), 우편물 및 카드를 받을 수 있는 주소가 필요합니다. 학교에 있는 PNC Bank 지점에서 바로 개설하실 수 있으며, Social Security Number는 개설시에는 필요하지 않습니다. 계좌를 개설하면 account number를 받게 되는데, 혹시 온라인 뱅킹이나 한국에서 송금을 하실 때에는 
 ###### Debit and Credit Card
-Debit card는 한국의 체크카드와 같은 카드로, 사용하는 즉시 은행계좌에서 돈이 빠져나갑니다. 일반적으로 계좌를 개설하면 바로 발급받을 수 있는 카드로서, ATM기에서 돈을 인출/송금해야 할 때나 
+Debit card는 한국의 체크카드와 같은 카드로, 사용하는 즉시 은행계좌에서 돈이 빠져나갑니다. 일반적으로 계좌를 개설하면 바로 발급받을 수 있는 카드로서, ATM기에서 돈을 인출/송금해야 할 때에도 사용가능합니다. Credit card는 신용카드로서, 신청시 일반적으로 Credit Score(FICO Score, 신용도), Debit/Credit Card 사용 실적, 은행 계좌의 잔고, 직업이나 연봉 등의 정보를 바탕으로 발급 여부를 결정합니다. 보통 처음 미국에 오신 분들은 credit card를 신청해도 reject되는 경우가 많고, 어느 정도 banking history가 쌓인 후 (보통 6개월 ~ 1년) Credit score를 올리는 방법에는 여러가지 팁이 있으나, 어느 것도 공식적이라고 할 수 없으니 
 ###### Check/Cheque
-Check는 [Check 기입 방법]()을 참고하시기 바랍니다.
+Check는 [Check 기입 방법](http://www.wikihow.com/Write-a-Check)을 참고하시기 바랍니다.
 ###### Online Banking
 은행마다 다르지만, 송금에는 보통 1-2 business day가 걸립니다. 혹시 공과금이나 service fee 등을 online transfer를 통해 
 
@@ -18,8 +18,6 @@ Check는 [Check 기입 방법]()을 참고하시기 바랍니다.
 * 사용은행
     * 초기 계좌 생성 시 넣어둘 돈이 필요
     * App이 있어 이용하기 편함
-* Debit Card (체크카드)
-    * 
 * Credit Card (신용카드)
     * 일반적으로 Credit Score(신용도), Debit/Credit Card 사용 실적, 은행 계좌의 잔고, 직업이나 연봉 등의 정보를 바탕으로 발급 여부를 결정
     * 보통 미국에서의 경제활동이 없는 경우에는 오자마자 발급받기 어려움
@@ -30,7 +28,6 @@ Check는 [Check 기입 방법]()을 참고하시기 바랍니다.
 * [Check/Cheque](https://en.wikipedia.org/wiki/Cheque)
     * 보통 집 계약 시 check로 달라고 함
     * Check 없을 경우 일단 가지고 있는 현금을 내고 영수증 받아둘 것
-    * [Check 기입 방법](http://www.wikihow.com/Write-a-Check)
 
 ###### 휴대폰
 * 통신사

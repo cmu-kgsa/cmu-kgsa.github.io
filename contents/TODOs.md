@@ -8,40 +8,38 @@
 * Due: **Dec 22, Friday**
 * Deadline for subtasks
     * (**WD**) Subnavbar till. 10/11, Wed
-    * (**GK**) Life Wiki till. 10/14, Sat
+    * (**GK**) Life Wiki till. 10/26, Thur
 
 #### Contents
 
 * Refer to Google Drive KGSA
 * About page
     * (**WD**) 운영진 diagram re-design
-    * (**GK**) History & Contact us button
+    * (**GK**) 연혁 reordering & 사진들?
 * Life wiki
     * (**GK**) 정착 정보 --> 문장글로
     * (**WD**) Layout (responsive, scroll control of the second navbar)
     * [Pittsburgh Life Map][1]
 * Career (_Is this the right title?_)
+    * (**GK**) Recruiting section -- Google Calendar presentation, automatically show contents
     * Recent career-related events + history (행사 사진 + 회사 로고 overlay?)
     * Recent career-related events in a container
     * History: grid layout
     * Responsive button grid design(?), when clicked, information appears
-* KDisTech?
-    * ~~Not now~~
-* Social
-    * ~~Not now~~
 
 #### Minor TODOs
 
 * Font Size
     * Dynamic font size for small screens
-* Button Toggle
-    * When a button's clicked, the color changes and does not recover
-* Colors
-    * Tartan Check (tone down) & Burgandy
-    * Black & white
-* Add Google Calendar?
-    * Calendar for events only (not like weekly thing)
-* Highlight current page
+* Change Korean fonts -- a few options
+    * [Source Han Sans](https://typekit.com/fonts/source-han-sans-korean)
+    * [Kakao Fonts](http://www.sandoll.co.kr/?viba_portfolio=kakao)
+    * [Naver Fonts](http://software.naver.com/software/fontList.nhn?categoryId=I0000000)
+    * [Google Fonts Early Access](https://fonts.google.com/earlyaccess)
+* Subnavbar?
+    * (**GK**) Check how to apply subnavbar
+* Dropdown menu
+    * (**WD**) Dropdown for every page
 
 #### References
 * [Website UI](https://docs.google.com/document/d/1IgYCyZnGQ4WkO2YuNBUxI4ExWegJVBFkv49aiti0gYk/edit)
