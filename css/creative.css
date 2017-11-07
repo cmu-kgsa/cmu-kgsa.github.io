@@ -13,7 +13,7 @@ body {
   width: 100%;
 }
 body {
-  font-family: 'source-han-sans-korean', sans-serif;
+  font-family: 'source-han-sans-korean', 'Open Sans', sans-serif;
   /* font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif; */
   -webkit-tap-highlight-color:#222
 }
@@ -46,7 +46,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'source-han-sans-korean', sans-serif;
+  font-family: 'source-han-sans-korean', 'Open Sans', sans-serif;
 }
 p {
   font-size: 16px;
@@ -99,7 +99,7 @@ aside {
   border-width: 1px;
   /*border-color: rgba(34, 34, 34, 0.05);*/
   border-color: transparent;
-  font-family: 'source-han-sans-korean', sans-serif;
+  font-family: 'source-han-sans-korean', 'Open Sans', sans-serif;
   -webkit-transition: all 0.35s;
   -moz-transition: all 0.35s;
   transition: all 0.35s;
@@ -350,7 +350,7 @@ header#career-header{
   display: block;
   max-width: 650px;
   margin: 0 auto;
-  font-family: 'source-han-sans-korean', sans-serif;  
+  font-family: 'source-han-sans-korean', 'Open Sans', sans-serif;  
 }
 .portfolio-box .portfolio-box-caption {
   color: white;
@@ -507,7 +507,7 @@ fieldset[disabled] .btn-primary.active {
   background-color: white;
 }
 .btn {
-  font-family: 'source-han-sans-korean', sans-serif;
+  font-family: 'source-han-sans-korean', 'Open Sans', sans-serif;
   border: none;
   border-radius: 300px;
   font-weight: 700;
@@ -563,7 +563,7 @@ footer {
   padding: 25px 0;
   text-align: center;
   background-color: #666;
-  font-family: 'source-han-sans-korean', sans-serif;}
+  font-family: 'source-han-sans-korean', 'Open Sans', sans-serif;}
   footer span.copyright {
     font-size: 90%;
     color: white;
