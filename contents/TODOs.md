@@ -15,13 +15,14 @@
 * Refer to Google Drive KGSA
 * About page
     * (**WD**) 운영진 diagram re-design
-    * (**GK**) 연혁 reordering & 사진들?
+    * (**GK**) 연혁 사진들
 * Life wiki
     * (**GK**) 정착 정보 --> 문장글로
     * (**WD**) Layout (responsive, scroll control of the second navbar)
     * [Pittsburgh Life Map][1]
 * Career (_Is this the right title?_)
     * (**GK**) Recruiting section -- Google Calendar presentation, automatically show contents
+    * (**GK**) Recruiting - Remove Google Calendar
     * Recent career-related events + history (행사 사진 + 회사 로고 overlay?)
     * Recent career-related events in a container
     * History: grid layout
