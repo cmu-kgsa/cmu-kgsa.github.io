@@ -863,6 +863,12 @@ img.organization {
   max-width: 900px;
 }
 
+img.sponsor {
+  display: block;
+  margin: 0 auto;
+  width: 95%;
+}
+
 /*
 li.dropdown .dropdown-menu {
     
