@@ -14,8 +14,7 @@
 
 * Refer to Google Drive KGSA
 * About page
-    * (**WD**) 운영진 diagram re-design
-    * (**GK**) 연혁 사진들
+    * 어느정도 완료: Feedback 받기
 * Life wiki
     * (**GK**) 정착 정보 --> 문장글로
     * (**WD**) Layout (responsive, scroll control of the second navbar)
@@ -30,17 +29,13 @@
 
 #### Minor TODOs
 
-* Font Size
-    * Dynamic font size for small screens
 * Change Korean fonts -- a few options
-    * [Source Han Sans](https://typekit.com/fonts/source-han-sans-korean)
+    * [Source Han Sans](https://typekit.com/fonts/source-han-sans-korean): Seems okay
     * [Kakao Fonts](http://www.sandoll.co.kr/?viba_portfolio=kakao)
     * [Naver Fonts](http://software.naver.com/software/fontList.nhn?categoryId=I0000000)
     * [Google Fonts Early Access](https://fonts.google.com/earlyaccess)
 * Subnavbar?
     * (**GK**) Check how to apply subnavbar
-* Dropdown menu
-    * (**WD**) Dropdown for every page
 
 #### References
 * [Website UI](https://docs.google.com/document/d/1IgYCyZnGQ4WkO2YuNBUxI4ExWegJVBFkv49aiti0gYk/edit)

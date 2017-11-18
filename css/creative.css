@@ -858,6 +858,11 @@ img.logo {
   width: auto\9;
 }
 
+img.organization {
+  width: 85%;
+  max-width: 900px;
+}
+
 /*
 li.dropdown .dropdown-menu {
     
