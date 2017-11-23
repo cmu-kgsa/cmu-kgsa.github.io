@@ -17,11 +17,12 @@
     * 어느정도 완료: Feedback 받기
 * Life wiki
     * (**GK**) 정착 정보 --> 문장글로
+    * (**GK**) Sub-navbar
     * (**WD**) Layout (responsive, scroll control of the second navbar)
     * [Pittsburgh Life Map][1]
 * Career (_Is this the right title?_)
-    * (**GK**) Recruiting section -- Google Calendar presentation, automatically show contents
-    * (**GK**) Recruiting - Remove Google Calendar
+    * (**GK**) Recruiting section -- automatically show Google Calendar events
+    * Picture gallery?
     * Recent career-related events + history (행사 사진 + 회사 로고 overlay?)
     * Recent career-related events in a container
     * History: grid layout
@@ -33,9 +34,6 @@
     * [Source Han Sans](https://typekit.com/fonts/source-han-sans-korean): Seems okay
     * [Kakao Fonts](http://www.sandoll.co.kr/?viba_portfolio=kakao)
     * [Naver Fonts](http://software.naver.com/software/fontList.nhn?categoryId=I0000000)
-    * [Google Fonts Early Access](https://fonts.google.com/earlyaccess)
-* Subnavbar?
-    * (**GK**) Check how to apply subnavbar
 
 #### References
 * [Website UI](https://docs.google.com/document/d/1IgYCyZnGQ4WkO2YuNBUxI4ExWegJVBFkv49aiti0gYk/edit)

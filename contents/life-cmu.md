@@ -6,22 +6,14 @@
 ###### 사용은행
 피츠버그에는 [Bank of America](https://www.bankofamerica.com/)나 [Citi Bank](https://online.citi.com/)가 없거나 학교와 멀리 떨어진 곳에 있어서 거의 모든 유학생들이 [PNC Bank](https://www.pnc.com)를 사용합니다. PNC Bank의 본사가 피츠버그에 있고 CMU 안에도 지점 및 ATM이 있어서 피츠버그 내 및 미 동부에서 사용하시기엔 충분합니다. 단, PNC Bank의 경우 미 동부에 집중하여 위치해 있기 때문에 중부나 서부로 여행 또는 출장을 가게 될 때 ATM이나 은행업무를 보기 힘든 상황이 올 수 있으니 여행시 어느 정도의 현금을 들고 다니는 것이 좋습니다.
 ###### 계좌 개설
-계좌를 개설하려면 Photo ID (Passport, U.S. driver's license), 우편물 및 카드를 받을 수 있는 주소가 필요합니다. 학교에 있는 PNC Bank 지점에서 바로 개설하실 수 있으며, Social Security Number는 개설시에는 필요하지 않습니다. 계좌를 개설하면 account number를 받게 되는데, 혹시 온라인 뱅킹이나 한국에서 송금을 하실 때에는 
+계좌를 개설하려면 Photo ID (Passport, U.S. driver's license), 우편물 및 카드를 받을 수 있는 주소가 필요합니다. 학교에 있는 PNC Bank 지점에서 바로 개설하실 수 있으며, Social Security Number는 개설시에는 필요하지 않습니다. 계좌를 개설하면 account number를 받게 되는데, 혹시 온라인 뱅킹이나 한국에서 송금을 하실 때에는 이 account number와 해당 은행의 routing number를 모두 입력하셔야 합니다.
 ###### Debit and Credit Card
-Debit card는 한국의 체크카드와 같은 카드로, 사용하는 즉시 은행계좌에서 돈이 빠져나갑니다. 일반적으로 계좌를 개설하면 바로 발급받을 수 있는 카드로서, ATM기에서 돈을 인출/송금해야 할 때에도 사용가능합니다. Credit card는 신용카드로서, 신청시 일반적으로 Credit Score(FICO Score, 신용도), Debit/Credit Card 사용 실적, 은행 계좌의 잔고, 직업이나 연봉 등의 정보를 바탕으로 발급 여부를 결정합니다. 보통 처음 미국에 오신 분들은 credit card를 신청해도 reject되는 경우가 많고, 어느 정도 banking history가 쌓인 후 (보통 6개월 ~ 1년) Credit score를 올리는 방법에는 여러가지 팁이 있으나, 어느 것도 공식적이라고 할 수 없으니 
+Debit card는 한국의 체크카드와 같은 카드로, 사용하는 즉시 은행계좌에서 돈이 빠져나갑니다. 일반적으로 계좌를 개설하면 바로 발급받을 수 있는 카드로서, ATM기에서 돈을 인출/송금해야 할 때에도 사용가능합니다. Credit card는 신용카드로서, 신청시 일반적으로 Credit score(FICO Score, 신용도), Debit/Credit card 사용 실적, 은행 계좌의 잔고, 직업이나 연봉 등의 정보를 바탕으로 발급 여부를 결정합니다. 보통 처음 미국에 오신 분들은 credit card를 신청해도 reject되는 경우가 많고, 어느 정도 banking history가 쌓인 후 (보통 6개월 ~ 1년) 신청하거나 secured credit card(충전해서 사용하는 credit card)를 먼저 신청한 후 regular credit card를 신청해서 사용합니다. Credit score를 올리는 방법에는 여러가지 팁이 있으나, 어느 것도 공식적이라고 할 수 없으니 참고하시는 것이 좋습니다.
 ###### Check/Cheque
 Check는 [Check 기입 방법](http://www.wikihow.com/Write-a-Check)을 참고하시기 바랍니다.
 ###### Online Banking
-은행마다 다르지만, 송금에는 보통 1-2 business day가 걸립니다. 혹시 공과금이나 service fee 등을 online transfer를 통해 
+은행마다 다르지만, 송금에는 보통 1-2 business day가 걸립니다. 혹시 공과금이나 service fee, credit card payment 등을 online transfer를 통해 처리하고자 한다면 결제시한 최소 3일 정도 여유를 두고 보내시는 것이 좋습니다(Check 사용시에도 동일). 요새는 거의 모든 서비스에 automatic payment가 있으니 매번 확인하기 번거롭다면 본인의 banking account와 해당 서비스를 연결시켜 자동으로 결제하는 것이 나을 것입니다.
 
-###### 은행
-* 사용은행
-    * 초기 계좌 생성 시 넣어둘 돈이 필요
-    * App이 있어 이용하기 편함
-* Credit Card (신용카드)
-    * 일반적으로 Credit Score(신용도), Debit/Credit Card 사용 실적, 은행 계좌의 잔고, 직업이나 연봉 등의 정보를 바탕으로 발급 여부를 결정
-    * 보통 미국에서의 경제활동이 없는 경우에는 오자마자 발급받기 어려움
-    * 무조건 많은 금액을 사용한다고 Credit Score가 올라가지는 않고, 한도의 70% 정도를 사용하고 꼬박꼬박 갚는 것이 중요하다고 알려져 있다.
 * 송금시 주의 사항
     * 송금에 1-2 Business Day 소요. 결제시한 직전에 송금했다가 시간이 지나 불이익을 받는 경우도 있으므로 충분한 여유 기간 두고 송금할 것. 
     * 계좌열어서 사용가능하려면 10일 정도 걸리므로 처음에 충분한 금액을 환전하여 가져갈 것.
@@ -30,23 +22,28 @@ Check는 [Check 기입 방법](http://www.wikihow.com/Write-a-Check)을 참고�
     * Check 없을 경우 일단 가지고 있는 현금을 내고 영수증 받아둘 것
 
 ###### 휴대폰
-* 통신사
-    * [Verizon](https://www.verizonwireless.com/), [AT&T](https://www.att.com/), [T-Mobile](https://www.t-mobile.com/)
-    * [Sprint](https://www.sprint.com/en/home.html), [US Cellular](https://www.uscellular.com/), [Project Fi](https://fi.google.com/about/)
-* Coverage
-    * 미국 내에서 외부로 많이 다닐 때에는 Verizon이나 AT&T를 추천
-    * 학교 근방에서는 T-Mobile도 괜찮음
-* 요금제
-    * Family Plan
-    * Prepaid Plan
-    * 데이터 용량 별로 나뉘며, SMS 무제한 및 통화 무제한의 서비스가 따라오는 요금제도 있음
-    * 대부분 전자기기의 경우 미국이 한국보다 저렴하므로 새 휴대전화를 사는 경우 미국에서 구입하여 개통하는 것이 더 경제적
-    * 다른 나라에서 사용하던 휴대전화를 사용하는 경우, 보통 Country Lock만 해제하고 SIM을 바꿔서 사용 가능
+###### 통신사
+북미에서 사용하는 통신사는 [Verizon](https://www.verizonwireless.com/), [AT&T](https://www.att.com/), [T-Mobile](https://www.t-mobile.com/)가 대표적입니다. 이 외에도 [Sprint](https://www.sprint.com/en/home.html), [US Cellular](https://www.uscellular.com/), [Project Fi](https://fi.google.com/about/) 등의 통신사가 있습니다.
+###### Coverage
+* 미국 내에서 외부로 많이 다닐 때에는 Verizon이나 AT&T를 추천
+* 학교 근방에서는 T-Mobile도 괜찮음
+
+###### 요금제
+통신사별 요금제는 통신사별로 다르지만, 아래의 크게 세 가지의 종류로 분류할 수 있습니다.
+* Standard Plan
+개인이 사용하는 서비스로, 
+* Family Plan
+
+* Prepaid Plan
+선불 요금제로서, 
+* 데이터 용량 별로 나뉘며, SMS 무제한 및 통화 무제한의 서비스가 따라오는 요금제도 있음
+
+대부분 전자기기의 경우 미국이 한국보다 저렴하므로 새 휴대전화를 사는 경우 미국에서 구입하여 개통하는 것이 더 경제적입니다. 또한, 각 통신사들에서 
+다른 나라에서 사용하던 휴대전화를 사용하는 경우, 보통 Country Lock만 해제하고 SIM을 바꿔서 사용 가능
 
 ###### 인터넷
-* Vendors
-    * [Comcast Xfinity](https://www.xfinity.com/)
-    * [Verizon FiOS](https://www.verizon.com/home/fios-fastest-internet/)
+###### Vendors
+피츠버그 근처의 인터넷 서비스는 [Comcast Xfinity](https://www.xfinity.com/)와 [Verizon FiOS](https://www.verizon.com/home/fios-fastest-internet/)가 대표적입니다.
 * Registration
     * 인터넷 신청을 하려면, 인터넷 회사의 직원과 그 직원이 직접 방문하여 설치하는 날짜를 약속 잡아 인터넷 설치를 함
     * 보통 주거하는 아파트에 Comcast Line이 설치 되어 있는 경우가 많음
@@ -121,8 +118,10 @@ Last updated [today]
 
 ###### Other Links
 * [피츠버그 한인회](http://pittkor.org/xe/)
-* [(Outdated)KSAP Guide Wiki](http://ksap.wikidot.com/)
 * [피츠버그 즐기기](http://koreaninpittsburgh.blogspot.com/)
+* [(Outdated) KSAP Guide Wiki](http://ksap.wikidot.com/)
+* [(Outdated) KSAP Map](https://www.google.com/maps/d/u/0/viewer?ll=40.43858599999999%2C-79.94853999999998&spn=0.060361%2C0.11055&hl=ko&msa=0&z=13&ie=UTF8&mid=1pdvAq0ZaCxz2QqOg3fzoKrknR7U)
+* [맛맵 MaatMap](http://maatmap.com/)
 
 ### References
 * [Original Life Wiki 01](https://docs.google.com/document/d/1-f6LXudh0-cbSQagtOdUu7Y-vRJV0Yy-JvRWSRaoYUg/edit?usp=sharing)
