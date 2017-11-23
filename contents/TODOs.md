@@ -4,11 +4,7 @@
 
 #### Agenda
 
-* Weekly update meeting on **12 - 1pm, Wednesdays**
 * Due: **Dec 22, Friday**
-* Deadline for subtasks
-    * (**WD**) Subnavbar till. 10/11, Wed
-    * (**GK**) Life Wiki till. 10/26, Thur
 
 #### Contents
 
@@ -17,18 +13,24 @@
     * 어느정도 완료: Feedback 받기
 * Life wiki
     * (**GK**) 정착 정보 --> 문장글로
-    * (**GK**) Sub-navbar
-    * (**WD**) Layout (responsive, scroll control of the second navbar)
     * [Pittsburgh Life Map][1]
-* Career (_Is this the right title?_)
+* Career
     * (**GK**) Recruiting section -- automatically show Google Calendar events
-    * Picture gallery?
+    * Picture gallery for past events?
     * Recent career-related events + history (행사 사진 + 회사 로고 overlay?)
     * Recent career-related events in a container
     * History: grid layout
     * Responsive button grid design(?), when clicked, information appears
 
 #### Minor TODOs
+
+* To the top button
+    * 모바일에서 탭 했을때 버튼이 제자리로 안옴, 다른 곳 화면을 터치해야 제자리로 돌아옴
+* Sub Navbar 글씨가 너무 작은가?
+    * Browser view width (vw) 별 메뉴 글꼴 크기 바꾸기?
+* Feedback 받기
+* 정착정보 위키: 사진들과 같이 레이아웃 생각하기?
+    * 참고 - KSAP 위키
 
 * Change Korean fonts -- a few options
     * [Source Han Sans](https://typekit.com/fonts/source-han-sans-korean): Seems okay
