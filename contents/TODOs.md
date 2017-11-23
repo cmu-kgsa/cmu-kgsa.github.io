@@ -24,10 +24,6 @@
 
 #### Minor TODOs
 
-* To the top button
-    * 모바일에서 탭 했을때 버튼이 제자리로 안옴, 다른 곳 화면을 터치해야 제자리로 돌아옴
-* Sub Navbar 글씨가 너무 작은가?
-    * Browser view width (vw) 별 메뉴 글꼴 크기 바꾸기?
 * Feedback 받기
 * 정착정보 위키: 사진들과 같이 레이아웃 생각하기?
     * 참고 - KSAP 위키

@@ -140,6 +140,8 @@ aside {
   font-size: 12px;
   color: #222222;
   text-transform: uppercase;
+  border-color: #A6A6A6;
+  background-color: rgba(255, 255, 255, 0.5);
 }
 .navbar-default .nav > li > a,
 .navbar-default .nav > li > a:focus {
@@ -159,6 +161,7 @@ aside {
   /*color: rgba(255, 255, 255, 1);*/
   color:#FFAD00 !important;
   background-color: transparent;
+  font-size: 16px;
 }
 .navbar-default .nav > li.current > a:hover,
 .navbar-default .nav > li.current > a:focus:hover {
@@ -171,7 +174,7 @@ aside {
   font-weight: 700;
   font-size: 11px;
   /*color: rgba(255, 255, 255, 0.7);*/
-  color:#222
+  color:#666
 }
 .navbar-default .subnav > li > a:hover,
 .navbar-default .subnav > li > a:focus:hover {
@@ -188,6 +191,31 @@ aside {
 .navbar-default .subnav > li.active > a:focus:hover {
   color:#247 !important;
   background-color: rgba(0, 0, 0, 0.3);
+}
+
+@media (max-width: 767px) {
+  .navbar-default #submenu {
+    display: inline-block;
+    margin-left: 20px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+  }
+  .navbar-default #submenu > li {
+    display: inline-block;
+  }
+  .navbar-default #submenu > li > a {
+    line-height: 15px;    
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+  .navbar-default .nav > li.current > a,
+  .navbar-default .nav > li.current > a:focus {
+    padding-bottom: 5px;    
+  }
+  .navbar-default .navbar-collapse {
+    border-top: 1px solid #A6A6A6;
+    border-bottom: 1px solid #A6A6A6;
+  }
 }
 
 @media (min-width: 768px) {
@@ -251,16 +279,16 @@ aside {
     font-size: 12px;
     color:#4D4D4D
   }
+  .navbar-default.affix .subnav > li > a:hover,
+  .navbar-default.affix .subnav > li > a:focus:hover {
+    /*color: rgba(255, 255, 255, 1);*/
+    color:#12DC00 !important;
+  }
   .navbar-default.affix .subnav > li.active > a,
   .navbar-default.affix .subnav > li.active > a:focus {
     /*color: rgba(255, 255, 255, 0.7);*/
     font-size: 13px;
     color:#085
-  }
-  .navbar-default.affix .subnav > li > a:hover,
-  .navbar-default.affix .subnav > li > a:focus:hover {
-    /*color: rgba(255, 255, 255, 1);*/
-    color:#085 !important;
   }
   .navbar-default.affix .subnav > li.active > a:hover,
   .navbar-default.affix .subnav > li.active > a:focus:hover {
@@ -921,35 +949,3 @@ img.sponsor {
   margin: 0 auto;
   width: 95%;
 }
-
-/*
-li.dropdown .dropdown-menu {
-    
-    -webkit-transition: all 0.3s;
-    -moz-transition: all 0.3s;
-    -ms-transition: all 0.3s;
-    -o-transition: all 0.3s;
-    transition: all 0.3s;
-    
-    transform: translateY(-10%);
-    max-height: 100px;
-    display: block;
-    visibility:  hidden;
-    opacity: 0;
-    
-}*/
-
-/*
-.navbar-default .navbar-nav > li.dropdown:hover > a, 
-.navbar-default .navbar-nav > li.dropdown:hover > a:hover,
-.navbar-default .navbar-nav > li.dropdown:hover > a:focus {
-    background-color: rgba(255, 255, 255, 0.7);
-    color: rgb(85, 85, 85);
-}*/
-/*
-li.dropdown:hover > .dropdown-menu {
-    display: block;
-    visibility: visible;
-    opacity: 0.7;
-    transform: translateY(0%);
-}*/

@@ -48,7 +48,7 @@
         <div class="container-fluid">
             <!-- Brand and toggle get grouped for better mobile display -->
             <div class="navbar-header">
-                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#menu">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#menu, #submenu">
                     <span class="sr-only">Toggle navigation</span> Menu <i class="fa fa-bars"></i>
                 </button>
                 <a class="navbar-brand page-scroll" href="index.html">CMU KGSA</a>
@@ -63,7 +63,15 @@
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="menu">
                 <ul class="nav navbar-nav navbar-right">
-                    <li class="current"><a href="#page-top">About</a></li>
+                    <li class="current">
+                        <a href="#page-top">About</a>
+                        <ul class="collapse nav navbar-nav subnav" id="submenu">
+                            <li><a class="page-scroll" href="#about-us">KGSA 소개</a></li>
+                            <li><a class="page-scroll" href="#eboard">운영진</a></li>
+                            <li><a class="page-scroll" href="#history">연혁</a></li>
+                            <li><a class="page-scroll" href="#contact-us">연락처</a></li>
+                        </ul>
+                    </li>
                     <li><a href="life.html">Life</a></li>
                     <li><a href="career.html">Career</a></li>
                 </ul>
