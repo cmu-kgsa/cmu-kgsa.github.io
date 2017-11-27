@@ -34,10 +34,10 @@
     * [Naver Fonts](http://software.naver.com/software/fontList.nhn?categoryId=I0000000)
 
 #### References
-* [Website UI](https://docs.google.com/document/d/1IgYCyZnGQ4WkO2YuNBUxI4ExWegJVBFkv49aiti0gYk/edit)
-* [Website Contents](https://docs.google.com/document/d/1sfCX2gAXtHAe_IP72Fu0zbIAsBtNutSaXqhrHA_vbJQ/edit)
-* [Original Life Wiki 01](https://docs.google.com/document/d/1-f6LXudh0-cbSQagtOdUu7Y-vRJV0Yy-JvRWSRaoYUg/edit?usp=sharing)
-* [Original Life Wiki 02](https://docs.google.com/document/d/1WGevrcWeZ_PnSekDaYWJ-wf92NOXTdwVfM0vj6GNhMM/edit?usp=sharing)
+* [Website UI](https://docs.google.com/document/d/1IgYCyZnGQ4WkO2YuNBUxI4ExWegJVBFkv49aiti0gYk)
+* [Website Contents](https://docs.google.com/document/d/1sfCX2gAXtHAe_IP72Fu0zbIAsBtNutSaXqhrHA_vbJQ)
+* [Original Life Wiki 01](https://docs.google.com/document/d/1-f6LXudh0-cbSQagtOdUu7Y-vRJV0Yy-JvRWSRaoYUg)
+* [Original Life Wiki 02](https://docs.google.com/document/d/1WGevrcWeZ_PnSekDaYWJ-wf92NOXTdwVfM0vj6GNhMM)
 * [FontAwesome web icons](https://www.w3schools.com/icons/fontawesome_icons_webapp.asp)
 * [CMU Logo & Color](https://www.cmu.edu/marcom/brand-standards/logos-colors-type.html)
 * [Markdown Viewer](https://dillinger.io/)

@@ -6,7 +6,7 @@
         var $anchor = $(this);
         $('html, body').stop().animate({
             scrollTop: ($($anchor.attr('href')).offset().top - 50)
-        }, 1250, 'easeInOutExpo');
+        }, 1000, 'easeInOutExpo');
         event.preventDefault();
     });
 
@@ -28,13 +28,12 @@
         }
     })
 
-    
     $(window).scroll(function () {
     if ($(window).scrollTop() >= 50) {
-        //$('.navbar').css('background','transparent'); // GK: commented out for design inconsistency
+        //$('.navbar').css('background','transparent'); // GK: commented out for design consistency
         $('#scroll-top').fadeIn(300);   // hide scrolltop button
     } else {
-        //$('.navbar').css('background','transparent'); // GK: commented out for design inconsistency
+        //$('.navbar').css('background','transparent'); // GK: commented out for design consistency
         $('#scroll-top').fadeOut(300);  // show scrolltop button
     }
     });
@@ -44,6 +43,12 @@
         $('body,html').animate({
             scrollTop : 0
         }, 500);
+    });
+
+    $('.wiki-heading-close').click(function() {
+        $(this).parent().toggleClass('wiki-heading-content-folded')
+        $(this).toggleClass('fa-plus fa-minus')
+        $(document.getElementById($(this).parent().attr('id')+"c")).toggleClass('folded')
     });
     
 //    $(window).scroll(function() {
