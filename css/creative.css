@@ -142,6 +142,7 @@ aside {
   text-transform: uppercase;
   border-color: #A6A6A6;
   background-color: rgba(255, 255, 255, 0.5);
+  margin: 6.5px 15px;
 }
 .navbar-default .nav > li > a,
 .navbar-default .nav > li > a:focus {
