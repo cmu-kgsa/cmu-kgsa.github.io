@@ -1,30 +1,30 @@
-# 피츠버그 Steel City
+# 피츠버그 생활정보
 
 19세기 후반 Andrew Carnegie가 일으킨 철강도시로 널리 알려져 있는 피츠버그는 한 때 Steel City로 유명했지만, 이제는 철강산업의 쇄락 후 교육/의료/IT 등으로 다시금 부상하고 있습니다. 독립전쟁 시기부터의 역사적인 유산과 함께 급부상하는 신사업에 종사하는 젊은이들과 지역 아티스트들의 힙스터 분위기가 결합된 특색 있는 도시입니다. 미국에서 손에 꼽는 대도시는 아니지만, 곳곳에 맛집들이 숨어 있고 다양한 문화 행사와 지역 이벤트들을 즐길 수 있으면서 living expense는 대도시들보다 저렴한 매력 있는 도시입니다. 저희 KGSA에서 피츠버그라는 이 매력적인 도시를 즐기는 다양한 방법을 간단히 소개해드리고자 합니다.
 
 ## Neighborhoods
-내용 추가
+[내용 추가]
 
 ### Oakland
-내용 추가
+[내용 추가]
 
 ### Squirrel hill
-내용 추가
+[내용 추가]
 
 ### Shadyside
-내용 추가
+[내용 추가]
 
 ### Station Square
-내용 추가
+[내용 추가]
 
 ### Southside
-내용 추가
+[내용 추가]
 
 ### Strip district
-내용 추가
+[내용 추가]
 
 ### Lawrenceville
-내용 추가
+[내용 추가]
 
 
 ## 공원
@@ -41,15 +41,63 @@ Frick Park는 644 에이커에 달하는 큰 공원입니다. 학교에서는 3-
 
 ### Point State Park
 Point State Park는 다운타운에 있는 작은 공원입니다. 피츠버그 다운타운은 Allegheny River와 Monongahela River가 만나 Ohio River가 되는 삼각형 모양의 지대에 위치해 있는데, 그 꼭짓점 부분에 있다고 해서 Point State Park라고 이름지어졌습니다. 학교 근처에서 걸어가기에 가깝지는 않지만, 강가를 따라 나 있는 자전거 트레일을 따라가다보면, 금방 도착할 수 있고 여차하면 다운타운으로 가는 버스를 이용할 수도 있습니다. 마치 한강공원처럼 강둑에 앉아 세 강이 흐르는 모습 피츠버그 다운타운과 PNC Park, Heinz Field가 한 눈에 보이는 뷰를 즐길 수도 있고, 여름에는 높이 46미터까지 솟아오르는 분수를 구경할 수도 있습니다. 낮에 가도 예쁘지만, 밤에 분수에 조명이 들어올 때 가도 반짝이는 피츠버그의 스카이라인을 볼 수 있어 예쁩니다. 또 강가에 있는 만큼 kayaking이나 duck boat,  같은 수상 레져를 즐길 수 있는 시설도 있습니다.
+
 ### Mellon Park
 Mellon Park는 위의 소개한 공원들과는 달리 굉장히 작고 별볼일 없는 공원인데, 저희 집 바로 앞에 있어서 개인적으로 정이 가는 곳이기 때문에 살짝 포함해 봅니다. Mellon Park에서 특별히 즐길 수 있는 점은 하얀돔 지붕으로 덮인 실내 테니스코트가 있어서, 날씨에 관계 없이 테니스를 칠 수 있고, 12-15불의 가격으로 walk-in 테니스 클래스를 들을 수도 있으니, 테니스를 즐기고 싶은 분들은 확인해 보세요 :) (http://pittsburghpa.gov/citiparks/tennis-lessons)
 
-## 문화 및 이벤트 - Walnut festival, Movie at Schenly, Squirrel hill street markets, gallery crawl, art festival, concerts, Heinz music hall, Musicals (Benedum Center)
-피츠버그는 힙스터 도시로 부상하고 있는 만큼, 다양한 로컬 이벤트가 많습니다. 이런 작은 이벤트들 뿐만 아니라, 나름 유명한 뮤지컬도 종종 공연을 하러 오고 Beyoncé, Nicki Minaj, Coldplay 등의 유명한 가수들도 콘서트를 하러 오기 때문에 다양한 문화생활을 즐길 수 있습니다. 
+## 문화 및 이벤트
+힙스터 도시로 부상하고 있는 만큼 피츠버그에는 다양한 로컬 이벤트가 많습니다. 이런 작은 이벤트들 뿐만 아니라, 나름 유명한 뮤지컬도 종종 공연을 하러 오고 Beyoncé, Nicki Minaj, Coldplay, Bruno Mars 등의 유명한 가수들도 콘서트를 하러 오기 때문에 다양한 문화생활을 즐길 수 있습니다.
+
 ### Musicals and Theatres
-다운타운에 Benedum Center 라는 나름 고풍스럽게 생긴 Theatre가 있는데 여기서 많은 뮤지컬과 쇼가 진행됩니다. 사운드오브뮤직, 마틸다, 위키드 등의 브로드웨이 뮤지컬 공연도 보실 수 있습니다. 이곳 뿐만 아니라 다운타운에 Pittsburgh Cultural District가 있어서, August Wilson Center, Heinz Hall 등 연극, 음악회 등 다양한 문화공연을 즐길 수 있는 곳들이 많습니다. 여기서 진행되는 공연들은 Pittsburgh Cultural Trust (http://www.trustarts.org/) 를 통해서 정보를 얻을 수 있습니다. 회원가입을 해서 구독하면, 이메일과 우편을 통해 공연 정보와 할인 티켓 정보 등을 정기적으로 보내주니, 뮤지컬을 좋아하는 분은 구독하는 것도 굳아이디어 :)
-뿐만 아니라, 카네기멜론대학의 Drama School이 미국에서 굉장히 좋은 Drama School로 꼽히는데, Drama School의 학생들이 매 학기 두세 차례 정도 꽤 퀄리티 높은 뮤지컬/연극 공연을 선보입니다. 학교 캠퍼스의 Drama School 건물(Purnell Center) 1층에 있는 박스오피스에서 티켓을 살 수 있고, CMU ID 를 보여주면 10불이라는 저렴한 가격의 디스카운트된 티켓을 살 수 있습니다. 
-## 관광명소 - Duquesne Incline, Carnegie Museum, Andy Warhol Museum, Carnegie Science Center, Phipps Conservatory
-## 스포츠 - football, baseball, ice hockey
-## 주변 대도시 - DC, New York, Philadelphia, Cleveland
-## 이벤트 
+다운타운에 Benedum Center 라는 나름 고풍스럽게 생긴 Theatre가 있는데 여기서 많은 뮤지컬과 쇼가 진행됩니다. 사운드오브뮤직, 마틸다, 위키드 등의 브로드웨이 뮤지컬 공연도 보실 수 있습니다. 이곳 뿐만 아니라 다운타운에 Pittsburgh Cultural District가 있어서, August Wilson Center, Heinz Hall 등 연극, 음악회 등 다양한 문화공연을 즐길 수 있는 곳들이 많습니다. 여기서 진행되는 공연들은 [Pittsburgh Cultural Trust](http://www.trustarts.org/) 를 통해서 정보를 얻을 수 있습니다. 회원가입을 해서 구독하면, 이메일과 우편을 통해 공연 정보와 할인 티켓 정보 등을 정기적으로 보내주니, 뮤지컬을 좋아하는 분은 구독하는 것도 굳아이디어 :)
+뿐만 아니라, CMU의 Drama school이 미국에서 굉장히 좋은 프로그램으로 꼽히는데, Drama school의 학생들이 매 학기 두세 차례 정도 퀄리티 높은 뮤지컬/연극 공연을 선보입니다. 학교 캠퍼스의 Drama school 건물(Purnell Center) 1층에 있는 박스오피스에서 티켓을 살 수 있고, CMU ID 를 보여주면 10불이라는 저렴한 가격의 디스카운트된 티켓을 살 수 있습니다.
+
+### Walnut Festival
+[내용 추가]
+
+### Movie at Schenly
+[내용 추가]
+
+### Squirrel Hill Street Markets
+[내용 추가]
+
+### Gallery Crawl
+[내용 추가]
+
+### Art Festival
+[내용 추가]
+
+### Concerts
+[내용 추가]
+
+### Heinz Music Hall
+[내용 추가]
+
+## 관광명소
+
+### Duquesne Incline
+[내용 추가]
+
+### Carnegie Museum
+[내용 추가]
+
+### Andy Warhol Museum
+[내용 추가]
+
+### Carnegie Science Center
+[내용 추가]
+
+### Phipps Conservatory
+[내용 추가]
+
+## 스포츠
+[내용 추가]
+
+### 미식축구
+[내용 추가]
+
+### 야구
+[내용 추가]
+
+### 하키
+[내용 추가]
