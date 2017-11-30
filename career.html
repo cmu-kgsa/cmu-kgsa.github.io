@@ -69,7 +69,7 @@
                         <ul class="collapse nav navbar-nav subnav" id="submenu">
                             <li><a class="page-scroll" href="#recruiting">리크루팅</a></li>
                             <li><a class="page-scroll" href="#events">이벤트</a></li>
-                            <li><a class="page-scroll" href="#support-us">Support us</a></li>
+                            <li><a class="page-scroll" href="#support-us">후원 안내</a></li>
                         </ul>
                     </li>
                 </ul>
@@ -87,25 +87,26 @@
                 <div class="col-lg-12">
                     <h1 class="section-heading text-center">리크루팅</h1>
                     <h3 class="section-heading text-muted text-center">Recruiting</h3>
-                    <hr class="primary">
-                    <p4>Placeholder for recent career-related events (recruiting) -- List with brief intro and links?</p4>
-                    <!--<p class="text-center"><iframe src="https://calendar.google.com/calendar/embed?src=cmu.kgsa.career%40gmail.com&ctz=America/New_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe></p>-->
+                    <hr class="light">
+                    <div class="calendar" id="events-upcoming"></div>
+                    <div class="calendar" id="events-past"></div>
+                    <span class="result"></span>
                 </div>
             </div>
         </div>
     </section>
-
+    <!--
     <section class="bg-dark" id="events">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
                     <h1 class="section-heading text-center">Past Events</h1>
                     <hr class="light">
-                    <p4>Placeholder for past career-related events (recruiting) -- Grid structure</p4>
                 </div>
             </div>
         </div>
     </section>
+    -->
 
 
     <section class="bg-gray" id="support-us">
@@ -212,9 +213,10 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
     <script src="vendor/scrollreveal/scrollreveal.min.js"></script>
     <script src="vendor/magnific-popup/jquery.magnific-popup.min.js"></script>
-
+        
     <!-- Theme JavaScript -->
     <script src="js/creative.min.js"></script>
+    <script src="js/calendar.js"></script>
 
 </body>
 
