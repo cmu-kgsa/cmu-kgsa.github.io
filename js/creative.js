@@ -30,10 +30,8 @@
 
     $(window).scroll(function () {
     if ($(window).scrollTop() >= 50) {
-        //$('.navbar').css('background','transparent'); // GK: commented out for design consistency
         $('#scroll-top').fadeIn(300);   // hide scrolltop button
     } else {
-        //$('.navbar').css('background','transparent'); // GK: commented out for design consistency
         $('#scroll-top').fadeOut(300);  // show scrolltop button
     }
     });
@@ -50,16 +48,6 @@
         $(this).toggleClass('fa-plus fa-minus')
         $(document.getElementById($(this).parent().attr('id')+"c")).toggleClass('folded')
     });
-    
-//    $(window).scroll(function() {
-//    if($(this).scrollTop() > 50)  /*height in pixels when the navbar becomes non opaque*/ 
-//    {
-//        $('.opaque-navbar').addClass('opaque');
-//    } else {
-//        $('.opaque-navbar').removeClass('opaque');
-//    }
-//    });
-    
     
     // Initialize and Configure Scroll Reveal Animation
     window.sr = ScrollReveal();
@@ -92,6 +80,13 @@
         image: {
             tError: '<a href="%url%">The image #%curr%</a> could not be loaded.'
         }
+    });
+
+    $('body').on('mouseenter', '.events', function(){
+        $(this).addClass('focused');
+    });
+    $('body').on('mouseleave', '.events', function(){
+        $(this).removeClass('focused');
     });
 
 })(jQuery); // End of use strict

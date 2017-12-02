@@ -8,30 +8,19 @@
 
 #### Contents
 
-* Refer to Google Drive KGSA
 * About page
     * 어느정도 완료: Feedback 받기
 * Life wiki
-    * (**GK**) 정착 정보 --> 문장글로
-    * [Pittsburgh Life Map][1]
-* Career
-    * (**GK**) Recruiting section -- automatically show Google Calendar events
-    * Picture gallery for past events?
-    * Recent career-related events + history (행사 사진 + 회사 로고 overlay?)
-    * Recent career-related events in a container
-    * History: grid layout
-    * Responsive button grid design(?), when clicked, information appears
+    * 정착가이드 & 생활정보: Google Drive
+    * 사진들 넣기?
+* Career (**GK**)
+    * Upcoming events container?
 
 #### Minor TODOs
 
 * Feedback 받기
 * 정착정보 위키: 사진들과 같이 레이아웃 생각하기?
     * 참고 - KSAP 위키
-
-* Change Korean fonts -- a few options
-    * [Source Han Sans](https://typekit.com/fonts/source-han-sans-korean): Seems okay
-    * [Kakao Fonts](http://www.sandoll.co.kr/?viba_portfolio=kakao)
-    * [Naver Fonts](http://software.naver.com/software/fontList.nhn?categoryId=I0000000)
 
 #### References
 * [Website UI](https://docs.google.com/document/d/1IgYCyZnGQ4WkO2YuNBUxI4ExWegJVBFkv49aiti0gYk)

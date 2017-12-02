@@ -248,30 +248,38 @@
                 summary = result.summary || '',
                 description = result.description || '',
                 location = result.location || '',
+                eventlink = result.htmlLink || '',
                 i;
 
             for (i = 0; i < format.length; i++) {
                 format[i] = format[i].toString();
 
-                if (format[i] === '*summary*') {
-                    output = output.concat('<span class="summary">' + summary + '</span>');
-                } else if (format[i] === '*date*') {
+                if (format[i] === '*date*') {
                     output = output.concat('<div class="datetime">');
-                    output = output.concat('<span class="month">' + dateFormatted['month'] + '</span>');
-                    output = output.concat('<span class="day">' + dateFormatted['day'] + '</span>');
-                    output = output.concat('<span class="date">' + dateFormatted['date'] + '</span>');
+                    output = output.concat('<div class="month">' + dateFormatted['month'] + '</div>');
+                    output = output.concat('<div class="date">' + dateFormatted['date'] + '</div>');
                     output = output.concat('</div>');
-                } else if (format[i] === '*description*') {
-                    output = output.concat('<span class="description">' + description + '</span>');
+                } else if (format[i] === '*summary*') {
+                    // print summary as a link to original calendar event page
+                    output = output.concat('<div class="desc">')
+                    output = output.concat('<div class="summary"><a href="' + eventlink + '">' + summary + '</a></div>');
+                } else if (format[i] === '*time*') {
+                    output = output.concat('<div class="time">' + dateFormatted['time'] + '</div>');
+                    output = output.concat('</div>')
                 } else if (format[i] === '*location*') {
-                    output = output.concat('<span class="location">' + location + '</span>');
-                } else {
-                    if (format[i + 1] === '*location*' && location !== '' || format[i + 1] === '*summary*' && summary !== '' || format[i + 1] === '*date*' && dateFormatted !== '' || format[i + 1] === '*description*' && description !== '') {
-                        output = output.concat(format[i]);
+                    output = output.concat('<div class="icons">')
+                    if (location != '') {
+                        output = output.concat('<div class="location"><a href="https://www.google.com/maps/place/' + location + '"><i class="fa fa-lg fa-map-marker" aria-hidden="true"></i></a></div>');
+                    } else {
+                        output = output.concat('<div class="location inactive"><i class="fa fa-lg fa-map-marker" aria-hidden="true"></i></div>');
                     }
+                } else if (format[i] === '*addevent*') {
+                    output = output.concat('<div class="addevent"><a href="https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=' + eventlink.split('event?eid=')[1] + '&tmsrc=cmu.kgsa.career@gmail.com&catt=false&pprop=HowCreated:DUPLICATE&hl=en&scp=ONE"><i class="fa fa-lg fa-calendar-plus-o" aria-hidden="true"></i></a></div>');
+                    output = output.concat('</div>')
+                } else {
+                    output = output;
                 }
             }
-
             return output + '</' + tagName.split(" ")[0] + '>';
         };
 
@@ -352,7 +360,7 @@
             }
 
             if (config.sameDayTimes && !moreDaysEvent && !isAllDayEvent) {
-                formattedTime = ' from ' + getFormattedTime(dateStart) + ' - ' + getFormattedTime(dateEnd);
+                formattedTime = getFormattedTime(dateStart) + ' - ' + getFormattedTime(dateEnd);
             }
 
             //month day, year time-time
@@ -491,15 +499,15 @@
                     upcoming: true,
                     sameDayTimes: true,
                     dayNames: true,
-                    pastTopN: 5,
+                    pastTopN: 10,
                     upcomingTopN: -1,
                     recurringEvents: true,
                     itemsTagName: 'div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 events"',
                     upcomingSelector: '#events-upcoming',
                     pastSelector: '#events-past',
-                    upcomingHeading: '<strong>UPCOMING EVENTS</strong>',
-                    pastHeading: '<strong>PAST EVENTS</strong>',
-                    format: ['*date*', '*summary*', '*description*', '*location*'],
+                    upcomingHeading: '<h4><strong>UPCOMING EVENTS</strong></h4>',
+                    pastHeading: '<h4><strong>PAST EVENTS</strong></h4>',
+                    format: ['*date*', '*location*', '*addevent*', '*summary*', '*time*'],
                     timeMin: undefined,
                     timeMax: undefined
                 };

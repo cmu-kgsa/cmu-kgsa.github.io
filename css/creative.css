@@ -353,7 +353,7 @@ header#about-header {
   min-height: 200px;
   background-size: cover;
   background-position: center;
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/header/header.jpg');
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/header/about.jpg');
   text-align: center;
   color: white;
   -webkit-background-size: cover;
@@ -367,29 +367,7 @@ header#life-header{
   min-height: 200px;
   background-size: cover;
   background-position: center center;
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/header/pitt_skyline.jpg');
-  text-align: center;
-  color: white;
-}
-
-header#pitt-header{
-  position: relative;  
-  margin-top: 0px;
-  min-height: 200px;
-  background-size: cover;
-  background-position: center center;
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/header/pitt_skyline.jpg');
-  text-align: center;
-  color: white;
-}
-
-header#cmu-header{
-  position: relative;  
-  margin-top: 0px;
-  min-height: 200px;
-  background-size: cover;
-  background-position: center center;
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/header/cmu_campus.jpg');
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/header/life.jpg');
   text-align: center;
   color: white;
 }
@@ -1060,35 +1038,76 @@ h3 > .wiki-heading-close {
 }
 .calendar .datetime {
   text-transform: uppercase;
-  width: 70px;
-  height: 56px;
-}
-.calendar .date {
-  background-color: #fff;
-  color: red;
   font-weight: 500;
-  text-align: center;
+  width: 70px;
   float: left;
-  width: 100%;  
-  line-height: 20pt;
-  border: 1px solid #555;
+  margin-top: auto;
+  margin-bottom: auto;
+  margin-right: 15px;
 }
 .calendar .month {
   background-color: #ccc;
+  color: #666666;  
   text-align: center;
-  float: left;
-  line-height: 20pt;
-  width: 100%;  
-  border: 1px solid #555;
+  line-height: 23pt;
+  width: 100%;
+  border-top: 1px solid #aaa;
+  border-left: 1px solid #aaa;
+  border-right: 1px solid #aaa;
+  display: block;
 }
-.calendar .day {
-  color: red;
-  display: none;
+.calendar .date {
+  background-color: #fff;
+  color: #b00;
+  text-align: center;
+  width: 100%;
+  line-height: 23pt;
+  border: 1px solid #aaa;
+  display: block;
+}
+.calendar .events {
+  padding: 10px 15px;
+  height: 100px;
+}
+.calendar .events.focused {
+  border: 2px solid #222;
+} 
+.calendar .summary {
+  border: 1px;
+  display: table-row;
+  font-size: medium;
+}
+.calendar .time {
+  color: #666;
+  display: table-row;
 }
 .calendar .description {
   display: none;
 }
-.calendar .events {
-  margin: 10px;
-  padding: 0;
+.calendar .desc {
+  width: 65%;
+  margin-left: 80px;
+  margin-right: auto;
+}
+.calendar .icons {
+  float: right;
+  width: 10%;
+}
+.calendar .location,
+.calendar .location a {
+  display: block;
+  margin: 5px auto;
+  color: #067;
+  font-size: large;
+  text-align: center;
+}
+.calendar .location.inactive {
+  color: #eee;
+}
+.calendar .addevent,
+.calendar .addevent a {
+  display: block;
+  margin: 5px auto;
+  color: #cc002b;
+  text-align: center;
 }
