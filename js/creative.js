@@ -88,5 +88,5 @@
     $('body').on('mouseleave', '.events', function(){
         $(this).removeClass('focused');
     });
-
+    
 })(jQuery); // End of use strict

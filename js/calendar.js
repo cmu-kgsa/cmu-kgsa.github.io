@@ -135,11 +135,11 @@
             }
 
             for (i in pastResult) {
-                pastElem.insertAdjacentHTML('beforeend', transformationList(pastResult[i], settings.itemsTagName, settings.format));
+                pastElem.insertAdjacentHTML('beforeend', transformationList(pastResult[i], settings.itemsTagName, settings.format, i));
             }
 
             for (i in upcomingResult) {
-                upcomingElem.insertAdjacentHTML('beforeend', transformationList(upcomingResult[i], settings.itemsTagName, settings.format));
+                upcomingElem.insertAdjacentHTML('beforeend', transformationList(upcomingResult[i], settings.itemsTagName, settings.format, -1));
             }
 
             if (upcomingElem.firstChild) {
@@ -228,7 +228,7 @@
         };
 
         //Get all necessary data (dates, location, summary, description) and creates a list item
-        var transformationList = function transformationList(result, tagName, format) {
+        var transformationList = function transformationList(result, tagName, format, index) {
             var dateStart = getDateInfo(result.start.dateTime || result.start.date),
                 dateEnd = getDateInfo(result.end.dateTime || result.end.date),
                 dayNames = config.dayNames,
@@ -244,7 +244,7 @@
             }
 
             var dateFormatted = getFormattedDate(dateStart, dateEnd, dayNames, moreDaysEvent, isAllDayEvent),
-                output = '<' + tagName + '>',
+                output = '<' + tagName + ' id=event-' + index + '>',
                 summary = result.summary || '',
                 description = result.description || '',
                 location = result.location || '',
@@ -499,8 +499,8 @@
                     upcoming: true,
                     sameDayTimes: true,
                     dayNames: true,
-                    pastTopN: 10,
-                    upcomingTopN: -1,
+                    pastTopN: 12,
+                    upcomingTopN: 12,
                     recurringEvents: true,
                     itemsTagName: 'div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 events"',
                     upcomingSelector: '#events-upcoming',
