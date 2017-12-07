@@ -187,3 +187,5 @@ Pittsburgh University 근처에 있는 한국식 양념 및 후라이드 치킨�
 * [피츠버그 정착 관련 정보](https://docs.google.com/document/d/1-f6LXudh0-cbSQagtOdUu7Y-vRJV0Yy-JvRWSRaoYUg)
 * [CMU OIE - Settling In Guide](https://www.cmu.edu/oie/settling-in-guide/index.html)
 * [(Outdated) KSAP Guide Wiki](http://ksap.wikidot.com/)
+
+_wiki last updated: **Dec 5, 2017**_

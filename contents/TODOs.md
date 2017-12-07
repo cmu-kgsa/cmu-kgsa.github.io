@@ -8,19 +8,12 @@
 
 #### Contents
 
-* About page
-    * 어느정도 완료: Feedback 받기
 * Life wiki
-    * 정착가이드 & 생활정보: Google Drive
-    * 사진들 넣기?
-* Career (**GK**)
-    * Upcoming events container?
+    * 생활정보 위키
 
 #### Minor TODOs
 
 * Feedback 받기
-* 정착정보 위키: 사진들과 같이 레이아웃 생각하기?
-    * 참고 - KSAP 위키
 
 #### References
 * [Website UI](https://docs.google.com/document/d/1IgYCyZnGQ4WkO2YuNBUxI4ExWegJVBFkv49aiti0gYk)

@@ -942,7 +942,6 @@ img.sponsor {
   zoom: 1;
   padding: 10px 20px;
 }
-#toc h2,
 .toc h2 {
   display: inline;
   border: 0;
@@ -950,7 +949,6 @@ img.sponsor {
   font-size: 100% !important;
   font-weight: bold;
 }
-#toc ul,
 .toc ul {
   list-style-type: none;
   list-style-image: none;
@@ -959,8 +957,7 @@ img.sponsor {
   text-align: left;
   margin: 0.3em 0;  
 }
-.toc ul ul,
-#toc ul ul {
+.toc ul ul {
   margin: 0 0 0 2em;
 }
 .tocnumber {
@@ -989,6 +986,13 @@ img.sponsor {
   content: "\f105";
   font-family: FontAwesome;
 }
+.wiki a {
+  /*color: rgb(223, 21, 115);*/
+  color: rgb(230, 70, 7);
+}
+.wiki-heading a {
+  margin-right: 7px;
+}
 .wiki-heading-close {
   font-family: FontAwesome;
   float: right;
@@ -997,7 +1001,7 @@ img.sponsor {
   line-height: 10px;
 }
 .bg-gray .wiki-heading .wiki-heading-close {
-  color: #fff;
+  color: #666;
 }
 
 h2 > .wiki-heading-close {
