@@ -931,7 +931,7 @@ img.sponsor {
   border: 1px solid #a2a9b1;  
 }
 .bg-gray .toc {
-  background-color: #f8f9fa;
+  background-color: #eee;
   border: 1px solid #666;
 }
 .toc {
@@ -988,7 +988,7 @@ img.sponsor {
 }
 .wiki a {
   /*color: rgb(223, 21, 115);*/
-  color: rgb(230, 70, 7);
+  color: rgb(230, 89, 7);
 }
 .wiki-heading a {
   margin-right: 7px;
@@ -1050,14 +1050,14 @@ h3 > .wiki-heading-close {
   margin-right: 15px;
 }
 .calendar .month {
-  background-color: #ccc;
-  color: #666666;  
+  background-color: #bbb;
+  color: #555;  
   text-align: center;
   line-height: 23pt;
   width: 100%;
-  border-top: 1px solid #aaa;
-  border-left: 1px solid #aaa;
-  border-right: 1px solid #aaa;
+  border-top: 1px solid #888;
+  border-left: 1px solid #888;
+  border-right: 1px solid #888;
   display: block;
 }
 .calendar .date {
@@ -1066,7 +1066,7 @@ h3 > .wiki-heading-close {
   text-align: center;
   width: 100%;
   line-height: 23pt;
-  border: 1px solid #aaa;
+  border: 1px solid #888;
   display: block;
 }
 .calendar .events {
@@ -1074,7 +1074,8 @@ h3 > .wiki-heading-close {
   height: 100px;
 }
 .calendar .events.focused {
-  border: 2px solid #222;
+  border: 2px solid #fff;
+  background-color: #333;
 } 
 .calendar .summary {
   border: 1px;
@@ -1082,7 +1083,7 @@ h3 > .wiki-heading-close {
   font-size: medium;
 }
 .calendar .time {
-  color: #666;
+  color: #aaa;
   display: table-row;
 }
 .calendar .desc {
@@ -1098,17 +1099,17 @@ h3 > .wiki-heading-close {
 .calendar .location a {
   display: block;
   margin: 5px auto;
-  color: #067;
+  color: rgb(39, 229, 235);
   font-size: large;
   text-align: center;
 }
 .calendar .location.inactive {
-  color: #eee;
+  color: #444;
 }
 .calendar .addevent,
 .calendar .addevent a {
   display: block;
   margin: 5px auto;
-  color: #cc002b;
+  color: #ff83aa;
   text-align: center;
 }
