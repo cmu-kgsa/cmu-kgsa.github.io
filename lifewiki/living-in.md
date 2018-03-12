@@ -98,7 +98,7 @@ Highland Park 근처에 있는 Pittsburgh Zoo & PPG Aquarium에는 다양한 동
 [Pittsburgh Pirates](https://www.mlb.com/pirates)는 박찬호 선수가 한국으로 돌아가기 전 머물었던 팀으로, 몇 년 전 강정호 선수의 영입으로 한국 사람들에게 그 이름이 알려졌습니다. [PNC Park](http://pittsburgh.pirates.mlb.com/pit/ballpark/)를 홈 구장으로 하는 Pirates는 예전부터 아주 잘 하는 팀은 아니었지만, 최근 몇 년간은 팀 리빌딩을 통해 꾸준히 성적을 더 올리려 노력하는 중입니다. 미식축구와 달리 일주일에 많게는 대여섯번 하는 야구 경기는 상대 팀에 따라 가격이 매우 싸질 때도 있고, CMU GSA에서도 세일 티켓을 제공하기 때문에 부담없이 갈 수 있습니다. 오승환 선수와 류현진 선수가 각각 활약중인 [St. Louis Cardinals](https://www.mlb.com/cardinals)와 [LA Dodgers](https://www.mlb.com/dodgers) 등의 팀과 같은 리그(National League)에 있기 때문에 날짜를 잘 선택하면 한국 선수들이 피츠버그 구장에서 뛰는 모습을 볼 수 있을 것입니다.
 
 ### 하키
-한국에 많이 알려져 있지는 않지만, 피츠버그는 하키 팀으로도 유명합니다. 피츠버그의 [Pittsburgh Penguins](https://www.nhl.com/penguins)는 작년과 올해 시즌(2016, 2017년) 연속으로 하키의 월드시리즈인 Stanley Cup 우승을 거머쥘 만큼 강세를 보이고 있는 팀입니다. 다운타운의 [PPG Paints Arena](http://www.ppgpaintsarena.com/)를 홈 경기장으로, 늦가을(10월 말)부터 여름(6월)까지 시즌이 진행되니 비교적 많은 스포츠를 즐길 수 없는 겨울에도 보기 좋습니다. 하키 역시 한국에는 많이 대중화되지 않은 스포츠이지만, 강력한 홈 팀을 응원하면서 경기를 볼 수 있다면 모든 스포츠가 짜릿할 수 있을 것입니다.
+한국에 많이 알려져 있지는 않지만, 피츠버그는 하키 팀으로도 유명합니다. 피츠버그의 [Pittsburgh Penguins](https://www.nhl.com/penguins)는 2016, 2017년 연속으로 하키의 월드시리즈인 Stanley Cup 우승을 거머쥘 만큼 강세를 보이고 있는 팀입니다. 다운타운의 [PPG Paints Arena](http://www.ppgpaintsarena.com/)를 홈 경기장으로, 늦가을(10월 말)부터 여름(6월)까지 시즌이 진행되니 비교적 많은 스포츠를 즐길 수 없는 겨울에도 보기 좋습니다. 하키 역시 한국에는 많이 대중화되지 않은 스포츠이지만, 강력한 홈 팀을 응원하면서 경기를 볼 수 있다면 모든 스포츠가 짜릿할 수 있을 것입니다.
 
 ## See Also
 * [맛맵 MaatMap](http://maatmap.com/)
